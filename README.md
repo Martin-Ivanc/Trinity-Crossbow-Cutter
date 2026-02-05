@@ -31,4 +31,6 @@ This project is derived from the original Trinity Toolhead, and full credit goes
 👉 Original Trinity Toolhead repository:
 (https://github.com/WV-design/Trinity-toolhead)
 
+Chube compact version comes form Prooda`s mod on original Trinity design
+
 This repository only contains modifications and extensions; it would not exist without the original work.
