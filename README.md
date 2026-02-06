@@ -7,7 +7,7 @@ The goal of this modification is to integrate a compact and reliable cutting mec
 
 ![Dragon Render](https://github.com/user-attachments/assets/2ae65b5a-df3a-4230-9a4e-5c7ffb0b0dd4)
 
-> [NOTE]
+> [!IMPORTANT] 
 > This model is not designed with multicolor prints in mind as the purging will have a lot of vaste but if you have tons of filament laying around go for it
 
 > [!WARNING]
