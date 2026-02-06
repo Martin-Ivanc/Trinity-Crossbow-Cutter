@@ -7,6 +7,9 @@ The goal of this modification is to integrate a compact and reliable cutting mec
 
 ![Dragon Render](https://github.com/user-attachments/assets/2ae65b5a-df3a-4230-9a4e-5c7ffb0b0dd4)
 
+> [NOTE]
+> This model is not designed with multicolor prints in mind as the purging will have a lot of vaste but if you have tons of filament laying around go for it
+
 > [!WARNING]
 > This model is in beta stage and might need some adjustments in the future.
 
@@ -16,7 +19,9 @@ What’s changed
 
 - Adjusted geometry to maintain rigidity and alignment
 
-- Designed to be easily serviceable and printable
+- Added passthrough belts up to 12mm while keeping the the model easily printable
+
+- Design is easily servisable because of one piece geometry 
 
 Compatibility
 
@@ -33,6 +38,9 @@ This project is derived from the original Trinity Toolhead, and full credit goes
 👉 Original Trinity Toolhead repository:
 (https://github.com/WV-design/Trinity-toolhead)
 
-Chube compact version comes form Prooda`s mod on original Trinity design
+👉 Crossbow cutter from DW Tad
+https://github.com/DW-Tas/Crossbow-Filament-Cutter
+
+👉 Chube compact version comes form Prooda`s mod on original Trinity design
 
 This repository only contains modifications and extensions; it would not exist without the original work.
