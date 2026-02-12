@@ -5,7 +5,7 @@ Modified Trinity Toolhead with Crossbow Cutter
 This repository contains a modified version of the Trinity Toolhead, extended to support a Crossbow Cutter.
 The goal of this modification is to integrate a compact and reliable cutting mechanism directly into the Trinity Toolhead, while preserving compatibility with the original design philosophy
 
-![Dragon Render](https://github.com/user-attachments/assets/2ae65b5a-df3a-4230-9a4e-5c7ffb0b0dd4)
+![Render](https://github.com/user-attachments/assets/5b4182fe-41c3-49e0-a590-5ba646e5cbe0)
 
 > [!IMPORTANT] 
 > This model is not designed with multicolor prints in mind as the purging will have a lot of waste but if you have tons of filament laying around go for it
