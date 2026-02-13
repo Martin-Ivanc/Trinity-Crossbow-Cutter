@@ -31,6 +31,10 @@ Requires the Crossbow Cutter hardware (not included)
 
 Users are encouraged to review tolerances and test fit before final installation
 
+BOM 
+
+Most of the design have the same bom as original but I also added the option to replace heat set inserts for holding down the extruder with M3 square nuts
+
 Credits & Acknowledgements
 
 This project is derived from the original Trinity Toolhead, and full credit goes to the original authors and contributors.
@@ -38,7 +42,7 @@ This project is derived from the original Trinity Toolhead, and full credit goes
 👉 Original Trinity Toolhead repository:
 (https://github.com/WV-design/Trinity-toolhead)
 
-👉 Crossbow cutter from DW Tad
+👉 Crossbow cutter from DW Tas
 https://github.com/DW-Tas/Crossbow-Filament-Cutter
 
 👉 Chube compact version comes form Prooda`s mod on original Trinity design
