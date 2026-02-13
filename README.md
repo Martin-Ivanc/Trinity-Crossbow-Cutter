@@ -43,4 +43,6 @@ https://github.com/DW-Tas/Crossbow-Filament-Cutter
 
 👉 Chube compact version comes form Prooda`s mod on original Trinity design
 
+👉 Special thanks to `jeremytodd1` for all the testing he has done 
+
 This repository only contains modifications and extensions; it would not exist without the original work.
