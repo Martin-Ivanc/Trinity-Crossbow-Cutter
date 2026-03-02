@@ -34,7 +34,9 @@ Users are encouraged to review tolerances and test fit before final installation
 # BOM 
 
 Most of the design have the same bom as original but I added M3 square nuts for extruder mounting
+
 Longer M3x16 BHCS or SHCS screws for extruder mouting
+
 Extra 2x M3x8 BHCS for mounting the crossbow cutter
 
 Credits & Acknowledgements
