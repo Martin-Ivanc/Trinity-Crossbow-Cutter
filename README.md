@@ -19,7 +19,7 @@ The goal of this modification is to integrate a compact and reliable cutting mec
 
 - Adjusted geometry to maintain rigidity and alignment
 
-- Added passthrough belts up to 12mm while keeping the the model easily printable
+- Added passthrough belts up to 10mm while keeping the the model easily printable
 
 - Design is easily servisable because of one piece geometry 
 
