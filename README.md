@@ -39,7 +39,7 @@ Longer M3x16 BHCS or SHCS screws for extruder mouting
 
 Extra 2x M3x8 BHCS for mounting the crossbow cutter
 
-Credits & Acknowledgements
+# Credits & Acknowledgements
 
 This project is derived from the original Trinity Toolhead, and full credit goes to the original authors and contributors.
 
