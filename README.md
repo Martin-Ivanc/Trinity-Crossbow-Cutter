@@ -13,7 +13,7 @@ The goal of this modification is to integrate a compact and reliable cutting mec
 > [!WARNING]
 > This model is in beta stage and might need some adjustments in the future.
 
-What’s changed
+# What’s changed
 
 - Added mechanical support and mounting for a Crossbow Cutter
 
@@ -23,17 +23,19 @@ What’s changed
 
 - Design is easily servisable because of one piece geometry 
 
-Compatibility
+# Compatibility
 
 Based on the original Trinity Toolhead design
 
-Requires the Crossbow Cutter hardware (not included)
+Requires the Crossbow Cutter hardware
 
 Users are encouraged to review tolerances and test fit before final installation
 
-BOM 
+# BOM 
 
-Most of the design have the same bom as original but I also added the option to replace heat set inserts for holding down the extruder with M3 square nuts
+Most of the design have the same bom as original but I added M3 square nuts for extruder mounting
+Longer M3x16 BHCS or SHCS screws for extruder mouting
+Extra 2x M3x8 BHCS for mounting the crossbow cutter
 
 Credits & Acknowledgements
 
