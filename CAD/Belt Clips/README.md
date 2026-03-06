@@ -1,2 +1,6 @@
-Each STEP file has 4 sizes of clips 
-Test print one of each and find out which size fits the best
+> [!IMPORTANT] 
+> Each test pack for monolith toolhead contains 4 size of Apex clips
+>
+> More dots = Bigger
+>
+> Test print one pack and test what size of clips fits the best
