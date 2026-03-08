@@ -19,7 +19,7 @@ The goal of this modification is to integrate a compact and reliable cutting mec
 
 - Adjusted geometry to maintain rigidity and alignment
 
-- Added passthrough belts up to 10mm while keeping the the model easily printable
+- Added the ability to run 10 mm passthrough belts
 
 - Design is easily servisable because of one piece geometry 
 
@@ -44,7 +44,7 @@ Extra 2x M3x8 BHCS for mounting the crossbow cutter
 This project is derived from the original Trinity Toolhead, and full credit goes to the original authors and contributors.
 
 👉 Original Trinity Toolhead repository:
-(https://github.com/WV-design/Trinity-toolhead)
+https://github.com/WV-design/Trinity-toolhead
 
 👉 Crossbow cutter from DW Tas
 https://github.com/DW-Tas/Crossbow-Filament-Cutter
