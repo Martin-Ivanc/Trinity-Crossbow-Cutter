@@ -10,9 +10,6 @@ The goal of this modification is to integrate a compact and reliable cutting mec
 > [!IMPORTANT] 
 > This model is not designed with multicolor prints in mind as the purging will have a lot of waste but if you have tons of filament laying around go for it
 
-> [!WARNING]
-> This model is in beta stage and might need some adjustments in the future.
-
 # What’s changed
 
 - Added mechanical support and mounting for a Crossbow Cutter
